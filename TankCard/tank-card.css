@@ -1,0 +1,35 @@
+
+.tank1_container {
+    height: 10px;
+    width: 10px;
+    background-color: rgb(158, 73, 73);
+    border-radius: 60px;
+    box-shadow: 3px 2px 3px 2px #0000009a;
+    left: 400px;
+    top: 100px;
+    margin-bottom: 30px;
+}
+
+.card-tank1-image {
+    height: 10px;
+    width: 10px;
+  background-color: rgb(207, 194, 26);
+    
+
+
+}
+
+.card-tank1-image-adjust {
+    height: 10px;
+    width: 10px;
+    margin-left: 10%;
+    margin-top: 5%;
+    
+}
+
+.card-tank1-stats {
+    height: 10px;
+    margin-left: 5%;
+    
+    
+}
